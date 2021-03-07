@@ -33,7 +33,7 @@ _____________
 
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/C_Sharp_logo.png" width="5%"></img><img src="https://opsgility.com/Images/azure-icons/azure-logo.png" width="5%"></img>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InterstellarRiz)](https://github.com/InterstellarRiz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRizor)](https://github.com/JohnRizor/github-readme-stats)
 
-![Riz's GitHub stats](https://github-readme-stats.vercel.app/api?username=InterstellarRiz&show_icons=true&theme=dark)
+![Riz's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRizor&show_icons=true&theme=dark)
 
