@@ -13,7 +13,7 @@ _________
 _________
 My name is John Rizor. I am currently developing my software development skills through the Microsoft Software and Systems Academy program.
 
-Currently learning **Azure**, **SQL**, **C#**, and **Javascript** 
+Currently learning **Azure**, **SQL**, **C#**, and **Python** 
 
 - :thought_balloon: Interest in all thing **DevOps**, **AI**, and **machine learning**
 
