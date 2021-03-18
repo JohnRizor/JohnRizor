@@ -31,7 +31,7 @@ Currently learning **Azure**, **SQL**, **C#**, **Java** and **Python**
 
 _____________
 
-<p align="left"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="5%"></img><img src="https://opsgility.com/Images/azure-icons/azure-logo.png" width="5%"></img><img src="https://img.favpng.com/17/5/2/asp-net-mvc-logo-net-framework-model-view-controller-png-favpng-v24xiWvwG7hnY9K1Y9P8y3tfs.jpg" width="5%"></img><img src="https://www.pikpng.com/pngl/m/62-626662_python-transparent-png-python-language-clipart.png" width="5%"></img><img src="https://p7.hiclipart.com/preview/1011/30/511/java-runtime-environment-java-development-kit-computer-software-macos-gucci-logo-thumbnail.jpg" width="5%"></img>
+<p align="left"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="5%"></img><img src="https://opsgility.com/Images/azure-icons/azure-logo.png" width="5%"></img><img src="https://seeklogo.com/images/P/python-logo-C50EED1930-seeklogo.com.png" width="5%"></img><img src="https://seeklogo.com/images/M/microsoft-net-logo-631EFE744A-seeklogo.com.png" width="5%"></img><img src="https://seeklogo.com/images/J/java-logo-7833D1D21A-seeklogo.com.png" width="5%"></img><img src="https://seeklogo.com/images/C/css-3-logo-AF06D75231-seeklogo.com.png" width="5%"></img><img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" width="5%"></img><img src="https://seeklogo.com/images/H/html5-logo-EF92D240D7-seeklogo.com.png" width="5%"></img>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRizor)](https://github.com/JohnRizor/github-readme-stats)
