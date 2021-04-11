@@ -8,7 +8,7 @@
 <h3 align="center">See you Space Cowboy</h3>
 
 _________
-<h4 align="center">Aspiring junior software developer with his :heart: in :computer: and his head in the :cloud:. I am your :electric_plug:</h3>
+<h4 align="center">Aspiring Software Developer with his :heart: in :computer: and his head in the :cloud:. I am your :electric_plug:</h3>
 
 _________
 My name is John Rizor. I am currently developing my software development skills through the Microsoft Software and Systems Academy program.
