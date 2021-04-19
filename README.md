@@ -37,4 +37,3 @@ _____________
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnRizor)](https://github.com/JohnRizor/github-readme-stats)
 
 ![Riz's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnRizor&show_icons=true&theme=dark)
-
