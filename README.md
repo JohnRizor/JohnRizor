@@ -25,7 +25,7 @@ Currently learning **Azure**, **SQL**, **C#**, **Java** and **Python**
 
 - 💬 Ask me: What are you working on?
 
-- 📫 Reach me on myspace ... just joking connect with me on LinkedIn: *https://www.linkedin.com/in/john-rizor*
+- 📫 Hit my up on myspace ... just joking connect with me on LinkedIn: *https://www.linkedin.com/in/john-rizor*
 
 
 
