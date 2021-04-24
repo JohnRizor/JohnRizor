@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to My Galaxy :milky_way:</h1>
-<h2 align="center">Now let's travel through Space and Time ... :rocket:</h2>
+<h2 align="center">Now let's travel through Space and Time together ... :rocket:</h2>
 
 
 <img src="https://mdierick.github.io/images/WISE_banner_credit.jpg"></img>
